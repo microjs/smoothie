@@ -1,0 +1,15 @@
+{
+  "name": "smoothie",
+  "repo": "microjs/smoothie",
+  "description": "Smoothie Charts: smooooooth JavaScript charts for realtime streaming data.",
+  "version": "1.9.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "smoothie.js"
+  ],
+  "main": "smoothie.js",
+  "twitter": "@ForbesLindesay",
+  "license": "MIT"
+}
