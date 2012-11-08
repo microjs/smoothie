@@ -326,3 +326,9 @@ SmoothieChart.prototype.render = function(canvas, time) {
 
   canvasContext.restore(); // See .save() above.
 }
+
+
+module.exports = {
+  TimeSeries: TimeSeries,
+  SmoothieChart: SmoothieChart
+};
