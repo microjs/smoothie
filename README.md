@@ -8,6 +8,31 @@ now is pretty much all it does. If you like that, then read on.
 
 See [http://smoothiecharts.org](http://smoothiecharts.org)
 
+Installation
+------------
+
+Use [component](https://github.com/component/component):
+
+```
+$ component-install microjs/smoothie
+```
+
+You can then load it:
+
+ES6:
+
+```javascript
+let {TimeSeries, SmoothieChart} = require('smoothie');
+```
+
+ES5:
+
+```javascript
+var TimeSeries = require('smoothie').TimeSeries;
+var SmoothieChart = require('smoothie').SmoothieChart;
+```
+
+
 Getting Started
 ---------------
 
